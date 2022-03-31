@@ -1,0 +1,96 @@
+.autor{
+    background-color: #7550a1;
+    font-size: 60px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: Helvetica, Geneva, Arial,
+          SunSans-Regular, sans-serif
+}
+.DATOS{
+    background-color: #bef5b6;
+ padding: auto;
+  border: 5px solid black;
+  font-family: Helvetica, Geneva, Arial,
+          SunSans-Regular, sans-serif
+}
+
+.OBJETIVO{
+ background-color: #f1b6d9;
+ text-align: center;
+ padding: 0%;
+ border-left: #b5a4ca;  
+ font-family: Helvetica, Geneva, Arial,
+             SunSans-Regular, sans-serif
+ 
+}
+.EXPERIENCIA{
+    background-color: #eed5a7;
+    padding: auto;
+     border: 5px solid black;
+     font-family: Helvetica, Geneva, Arial,
+             SunSans-Regular, sans-serif
+}
+.Preparación{
+    background-color: #6a94ecaf;
+    padding: auto;
+     border: 5px solid black;
+     font-family: Helvetica, Geneva, Arial,
+             SunSans-Regular, sans-serif
+}
+.grado{
+    background: white;
+    margin: 0.5em 0;
+    padding: 0.3em;
+    border-right: 1em solid black
+}
+.IDIOMAS{
+    background-color: #7550a1;
+    font-size: 20px;
+    margin: 0 auto;
+    text-align-last: right;
+    font-family: Helvetica, Geneva, Arial,
+          SunSans-Regular, sans-serif
+}   
+.Habilidades{
+    background: rgb(231, 124, 124);
+    margin: 0.5em 0;
+    padding: 0.3em;
+    border-right: 1em solid black
+    font-family: Helvetica, Geneva, Arial,
+          SunSans-Regular, sans-serif
+}
+.proyecto{
+    background-color: #eb7dbd;
+    padding: auto;
+     border: 5px solid black;
+     font-family: Helvetica, Geneva, Arial,
+             SunSans-Regular, sans-serif  
+}
+.contacto{
+
+  background: rgb(152, 68, 207);
+  margin: 0.5em 0;
+  padding: 0.3em;
+  border-right: 1em solid black
+}
+.header{
+    background: rgb(152, 68, 207);
+    margin: 0.5em 0;
+    padding: 0.3em;
+    border-right: 1em solid black 
+}
+.content{
+    background: rgb(231, 124, 124);
+    margin: 0.5em 0;
+    padding: 0.3em;
+    border-right: 1em solid black
+    font-family: Helvetica, Geneva, Arial,
+          SunSans-Regular, sans-serif   
+}
+.test1{
+    background-color: #6a94ecaf;
+    padding: auto;
+     border: 5px solid black;
+     font-family: Helvetica, Geneva, Arial,
+             SunSans-Regular, sans-serif 
+}
